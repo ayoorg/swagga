@@ -1,3 +1,3 @@
 # swagga
 
-b2
+b2 v2
